@@ -1,0 +1,180 @@
+.nav1 {
+    margin-top: 0px;
+}
+
+.nav0 {
+    margin-bottom: 0;
+}
+
+.nav1 li {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.navbt {
+    width: 60px;
+}
+
+.box1 {
+    width: 100%;
+    height: 50px;
+    background-color: #222222;
+}
+
+.box2 {
+    width: 100%;
+    height: 120px;
+    background-image: url(../images/infor.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 20% 0;
+    position: relative;
+}
+
+.box3 {
+    width: 60px;
+    height: 40px;
+    color: lightgrey;
+    position: absolute;
+    left: 700px;
+    top: 40px;
+}
+
+.box4 {
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    left: 800px;
+    top: 10px;
+}
+
+.box4 ul {
+    line-height: 100px;
+}
+
+.box4 ul li {
+    display: inline-block;
+    width: 100px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    list-style: none;
+    margin-right: 40px;
+}
+
+.box4 ul li a {
+    display: inline-block;
+    font-size: 16px;
+    color: #000;
+    width: 100px;
+    height: 80px;
+}
+
+.box4 ul li a:hover {
+    color: orangered;
+    text-decoration: none;
+    border-bottom: 2px solid orangered;
+}
+
+.bgp {
+    width: 100%;
+    height: 300px;
+    background-image: url(../images/bgp3.png);
+}
+.box5{
+    width: 100%;
+    height: 1700px;
+}
+.box6{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.box7{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+.box8{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+.box9{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+.box10{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footer {
+    width: 100%;
+    background-color: #222;
+    height: 350px;
+}
+
+.footer1 {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    color: lightgrey;
+    padding-top: 40px;
+}
+.box71{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(47, 135, 235);
+    color: white;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+}
+.box72{
+    width: 400px;
+    height: 200px;
+    color: grey;
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+.box73{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+}
+.box81{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(47, 135, 235);
+    color: white;
+    position: absolute;
+    left: 650px;
+    top: 50px;
+}
+.box82{
+    width: 400px;
+    height: 200px;
+    color: grey;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+.box83{
+    position: absolute;
+    left: 20px;
+    top: 50px;
+}

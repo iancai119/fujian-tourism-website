@@ -1,0 +1,199 @@
+.nav1 {
+    margin-top: 0px;
+}
+
+.nav0 {
+    margin-bottom: 0;
+}
+
+.nav1 li {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.navbt {
+    width: 60px;
+}
+
+.box1 {
+    width: 100%;
+    height: 50px;
+    background-color: #222222;
+}
+
+.box2 {
+    width: 100%;
+    height: 120px;
+    background-image: url(../images/infor.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 20% 0;
+    position: relative;
+}
+
+.box3 {
+    width: 60px;
+    height: 40px;
+    color: lightgrey;
+    position: absolute;
+    left: 700px;
+    top: 40px;
+}
+
+.box4 {
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    left: 800px;
+    top: 10px;
+}
+
+.box4 ul {
+    line-height: 100px;
+}
+
+.box4 ul li {
+    display: inline-block;
+    width: 100px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    list-style: none;
+    margin-right: 40px;
+}
+
+.box4 ul li a {
+    display: inline-block;
+    font-size: 16px;
+    color: #000;
+    width: 100px;
+    height: 80px;
+}
+
+.box4 ul li a:hover {
+    color: orangered;
+    text-decoration: none;
+    border-bottom: 2px solid orangered;
+}
+
+.box5 {
+    width: 100%;
+    height: 800px;
+}
+
+.box6 {
+    width: 1300px;
+    height: 550px;
+    margin: 0 auto;
+}
+
+.box7 {
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+    margin: 10px;
+}
+
+.box7:hover {
+    box-shadow: 0 0 5px black;
+}
+
+.box8 {
+    width: 100%;
+    height: 1100px;
+    background-image: url(../images/bgp2.png);
+}
+
+.box9 {
+    width: 1250px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.box10 {
+    display: inline-block;
+    width: 380px;
+    height: 350px;
+    text-align: center;
+    font-size: 16px;
+    margin: 15px;
+    background-color: white;
+}
+
+.box55 {
+    width: 1200px;
+    height: 327px;
+    margin-top: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.box51 {
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.box51 a {
+    text-decoration: none;
+}
+
+.box52 {
+    margin-top: 15px;
+    font-size: 20px;
+    line-height: 35px;
+    color: gray;
+}
+
+.box52 a {
+    color: grey;
+}
+
+.box52 li a:hover {
+    text-decoration: none;
+    color: orangered;
+}
+
+.box53 {
+    border-radius: 6px;
+    width: 130px;
+    height: 130px;
+    background-color: aqua;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    text-align: center;
+    line-height: 130px;
+}
+
+.box53::after {
+    content: " ";
+    background-image: url(../images/qrcode.jpg);
+    background-size: contain;
+    width: 307px;
+    height: 307px;
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    transform: translate(350px, 0px);
+    transition: all 0.5s;
+}
+
+.box53:hover::after {
+    transform: translate(30px, 0px);
+}
+.footer{
+    width: 100%;
+    background-color: #222;
+    height: 350px;
+}
+.footer1{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    color: lightgrey;
+    padding-top: 40px;
+}
