@@ -37,7 +37,7 @@ This is a static web project and does not require a backend server or database c
 
 ## Author
 **Cai Yanzhe**
-Software Engineering
+Information Systems
 
 ## Live Demo
 
