@@ -41,4 +41,4 @@ Software Engineering
 
 ## Live Demo
 
-👉 [Live Demo](https://iancai119.github.io/fujian-tourism-website/)
+👉 [Live Demo](https://iancai119.github.io/fujian-tourism-website/Fujian%20Tourism%20And%20Rural%20Revitalization%20Web%20Portal/index.html)
