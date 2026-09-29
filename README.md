@@ -5,6 +5,10 @@ This project is a front-end web development prototype designed for the "Fujian T
 
 The application demonstrates the use of a responsive front-end framework (Bootstrap) to create a consistent and user-friendly layout across various pages.
 
+## Preview
+
+![Project Preview](assets/preview.png)
+
 ## Technical Stack
 * **Languages:** HTML5, CSS3
 * **Framework:** Bootstrap 3 (Utilized for the grid system, navigation, and UI components)
