@@ -1,4 +1,8 @@
 # Fujian Tourism Information Network
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap_3-purple)
+![jQuery](https://img.shields.io/badge/Library-jQuery-blue)
 
 ## Project Overview
 This project is a front-end web development prototype designed for the "Fujian Tourism Information Network." It serves as a comprehensive portal to promote tourism in Fujian Province, China. The website features scenic spot guides, rural tourism information, rural revitalization news, and user account management interfaces.
